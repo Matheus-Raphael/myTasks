@@ -1,0 +1,12 @@
+{
+  "name": "MinhasTarefas",
+  "displayName": "MinhasTarefas",
+  "expo": {
+    "name": "MinhasTarefas",
+    "slug": "MinhasTarefas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
